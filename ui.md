@@ -1,0 +1,13 @@
+This is a structure of the Teepee app. 
+- Welcome screen
+  - shows a full screen welcome with the teepee logo
+  - continue button below logo that takes them to the main menu
+- Main menu screen
+  - Go to Proposals & Agreements screen
+- Proposals & Agreements screen
+  - Create new proposal
+    - Enter proposal name
+    - Enter details (multiline)
+    - Button to send to other parent
+      - Tapping adds proposal to list and goes to proposal list screen
+  - List of all proposals
